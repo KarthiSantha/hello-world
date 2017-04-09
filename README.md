@@ -1,3 +1,3 @@
 # hello-world
 exploring github
-learning branches
+learning branch
